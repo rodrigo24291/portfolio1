@@ -1,0 +1,25 @@
+.header{height: 100vh;
+display: flex;
+align-items: center;
+padding-top: 3.5rem;
+}
+
+.icon{font-size: 4rem;
+
+}
+.sub{
+   
+    padding: 3rem 0px;
+}
+
+
+
+    .tercero{padding: 5rem 0px; 
+        display: flex;
+        align-items: center;
+    }
+
+    span i{font-size: 1.5rem;
+    margin-right: 0.5rem;
+    }
+
